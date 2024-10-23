@@ -32,12 +32,6 @@ Este projeto segue um **roadmap típico de Data Science**, que pode ser dividido
 ### 6. **Avaliação**
    Avaliamos o desempenho do modelo com métricas como o **Erro Quadrático Médio (MSE)** e **R²**, que medem a precisão das previsões.
 
-### 7. **Ajuste de Modelos**
-   Inclui a tentativa de melhorar o modelo através da regularização (Lasso, Ridge) ou ajuste fino de parâmetros.
-
-### 8. **Deploy e Comunicação**
-   Em um cenário de negócios, o modelo poderia ser implementado em um ambiente de produção para fornecer previsões automatizadas e gerar valor a partir dos dados.
-
 ## 3. Regressão Linear
 
 A **regressão linear** é uma técnica estatística usada para modelar a relação entre uma variável dependente \( Y \) e uma ou mais variáveis independentes \( X_1, X_2, \dots, X_n \). O modelo de regressão linear assume que essa relação pode ser aproximada por uma linha reta, dada pela seguinte equação:
